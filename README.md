@@ -35,3 +35,28 @@ Edge detection using central difference operator at different thresholds.
 Hough transform
 
 <img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%202/hough.png'>
+
+## Assignment 3.
+
+The instructions can be found [here](https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/bildat_lab3_eng.pdf) and the full report can be found [here](https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/bildat_lab3_answers.pdf).
+
+The second assignment covers image segmentation and methods that deal with spatial coherence in different ways. Methods include K-means clustering, Mean-shift segmentation, Normalized cut, and graph cut.
+
+### Sample results.
+
+K-means clustering. The black circle highlights that no superpixel cover both halves.
+
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/kmeans.png'>
+
+Mean-shift segmentation
+
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/meanshift.png'>
+
+Normalized cut
+
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/ncut.png'>
+
+Graph cut
+
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/graphcut.png'>
+
