@@ -20,3 +20,18 @@ Fourier analysis with the real image to the left and the corresponding fourier s
 Gaussian convolution
 
 <img src='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%201/gauss.png'>
+
+## Assignment 2.
+
+The instructions can be found [here](https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%202/bildat_lab2_eng.pdf) and the full report can be found [here](https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%202/bildat_lab2_answers.pdf).
+
+The second assignment covers differential geometry based edge detection and the Hough transform. These operations were applied to learn the characteristics of the methods, including how important the choice of scale is for edge detection.
+
+### Sample results.
+
+Edge detection using central difference operator at different thresholds.
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%202/central_diff.png'>
+
+Hough transform
+
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%202/hough.png'>
