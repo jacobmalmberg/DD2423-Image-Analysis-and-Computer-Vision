@@ -44,7 +44,7 @@ The second assignment covers image segmentation and methods that deal with spati
 
 ### Sample results.
 
-K-means clustering. The black circle highlights that no superpixel cover both halves.
+K-means clustering. The black circle highlights that there are different superpixels for both halves.
 
 <img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/kmeans.png'>
 
