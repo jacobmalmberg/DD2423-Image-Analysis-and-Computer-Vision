@@ -58,5 +58,5 @@ Normalized cut
 
 Graph cut
 
-<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/graphcut.png'>
+<img src ='https://github.com/jacobmalmberg/DD2423-Image-Analysis-and-Computer-Vision/blob/master/Assignment%203/graphcut2.png'>
 
